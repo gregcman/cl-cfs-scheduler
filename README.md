@@ -107,8 +107,7 @@ SCHEDULER> (scheduloop 10)
 <     1 , -1.00> 
 <     4 , 1.50> 
  0.00
- 
- SCHEDULER>  (easy-make-task 90)
+SCHEDULER>  (easy-make-task 90)
 <    90 , 0.00>
 SCHEDULER> (nice-one-step)
 
